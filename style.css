@@ -26,7 +26,13 @@ body{
 }
 
 .intro_inner{
-    display: f
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.intro_info{
+    margin-left: 10px;
 }
 
 /* head */
